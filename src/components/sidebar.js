@@ -1,12 +1,12 @@
 function Sidebar() {
     return (
       <div className="sidebar result">
-        <h2>Dashboard</h2>
-        <h2>Widget</h2>
-        <h2>Reviews</h2>
-        <h2>Customers</h2>
-        <h2>Online Analysis</h2>
-        <h2>Settings</h2>
+        <h3>Dashboard</h3>
+        <h3>Widget</h3>
+        <h3>Reviews</h3>
+        <h3>Customers</h3>
+        <h3>Online Analysis</h3>
+        <h3>Settings</h3>
       </div>
     )
   }

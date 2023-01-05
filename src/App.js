@@ -17,7 +17,6 @@ function App() {
             <SentimentalAnalysis />
           </div>
           <WebsiteVisitors />
-
         </div>
       </div>
     </div>
